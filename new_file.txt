@@ -1,3 +1,7 @@
 new new new
 Test test test
+<<<<<<< HEAD
 git txt
+=======
+modfied by file1
+>>>>>>> branch_1
