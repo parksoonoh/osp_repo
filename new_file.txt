@@ -1,3 +1,4 @@
 new new new
 Test test test
 git txt
+modfied by file1
