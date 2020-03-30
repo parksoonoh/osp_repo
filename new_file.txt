@@ -1,4 +1,3 @@
 new new new
-modfied by branch1
 Test test test
 git text
