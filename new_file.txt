@@ -1,7 +1,13 @@
 new new new
 Test test test
 <<<<<<< HEAD
+<<<<<<< HEAD
 git txt
 =======
 modfied by file1
 >>>>>>> branch_1
+=======
+git text
+
+modfied by file2
+>>>>>>> be594f1edc9ca3934ab95deef54630608f2485c4
